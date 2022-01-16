@@ -126,6 +126,7 @@
 			<Item Name="specrugram_params_set.vi" Type="VI" URL="../streaming_chaim_adds/specrugram_params_set.vi"/>
 			<Item Name="specrugram_params_set.vi" Type="VI" URL="../../streaming1/streaming_chaim_adds/specrugram_params_set.vi"/>
 			<Item Name="stoper.vi" Type="VI" URL="../streaming_chaim_adds/stoper.vi"/>
+			<Item Name="tdms_read.vi" Type="VI" URL="../streaming_chaim_adds/tdms_read.vi"/>
 			<Item Name="TDMS_Rx_read.vi" Type="VI" URL="../streaming_chaim_adds/TDMS_Rx_read.vi"/>
 		</Item>
 		<Item Name="USRP 294xR; 295xR 200 MSps" Type="FPGA Target">
@@ -2646,7 +2647,6 @@
 		<Item Name="pulse detector on usrp host.vi" Type="VI" URL="../streaming_chaim_adds/pulse detector on usrp host.vi"/>
 		<Item Name="tdms_PDW_read.vi" Type="VI" URL="../streaming_chaim_adds/tdms_PDW_read.vi"/>
 		<Item Name="pulse detector tester_host vi.vi" Type="VI" URL="../streaming_chaim_adds/pulse detector tester_host vi.vi"/>
-		<Item Name="tdms_read.vi" Type="VI" URL="../streaming_chaim_adds/tdms_read.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Property Name="NI.SortType" Type="Int">2</Property>
 			<Item Name="instr.lib" Type="Folder">
