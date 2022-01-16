@@ -2646,6 +2646,7 @@
 		<Item Name="pulse detector on usrp host.vi" Type="VI" URL="../streaming_chaim_adds/pulse detector on usrp host.vi"/>
 		<Item Name="tdms_PDW_read.vi" Type="VI" URL="../streaming_chaim_adds/tdms_PDW_read.vi"/>
 		<Item Name="pulse detector tester_host vi.vi" Type="VI" URL="../streaming_chaim_adds/pulse detector tester_host vi.vi"/>
+		<Item Name="streaming_chaim_adds_tdms_PDW_read_Before_c9ab44845729105fa1b0203e7aff56e128c66f19.vi" Type="VI" URL="../../../../AppData/Local/Temp/streaming_chaim_adds_tdms_PDW_read_Before_c9ab44845729105fa1b0203e7aff56e128c66f19.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Property Name="NI.SortType" Type="Int">2</Property>
 			<Item Name="instr.lib" Type="Folder">
@@ -2746,6 +2747,7 @@
 			</Item>
 			<Item Name="PDW interpoter params.ctl" Type="VI" URL="../FPGA/PDW interpoter params.ctl"/>
 			<Item Name="peak detector.vi" Type="VI" URL="../test files/peak detector.vi"/>
+			<Item Name="pulse detector on usrp host.vi" Type="VI" URL="../../../../AppData/Local/Temp/pulse detector on usrp host.vi"/>
 			<Item Name="pulse detector.vi" Type="VI" URL="../streaming_chaim_adds/pulse detector.vi"/>
 			<Item Name="reciever_USRP294xR;295xR2_pulsedetectormai_nRNCtQH+qRA.lvbitx" Type="Document" URL="../FPGA Bitfiles/reciever_USRP294xR;295xR2_pulsedetectormai_nRNCtQH+qRA.lvbitx"/>
 			<Item Name="reciver params.ctl" Type="VI" URL="../FPGA/reciver params.ctl"/>
