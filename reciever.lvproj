@@ -2646,6 +2646,7 @@
 		<Item Name="pulse detector on usrp host.vi" Type="VI" URL="../streaming_chaim_adds/pulse detector on usrp host.vi"/>
 		<Item Name="tdms_PDW_read.vi" Type="VI" URL="../streaming_chaim_adds/tdms_PDW_read.vi"/>
 		<Item Name="pulse detector tester_host vi.vi" Type="VI" URL="../streaming_chaim_adds/pulse detector tester_host vi.vi"/>
+		<Item Name="tdms_read.vi" Type="VI" URL="../streaming_chaim_adds/tdms_read.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Property Name="NI.SortType" Type="Int">2</Property>
 			<Item Name="instr.lib" Type="Folder">
@@ -2750,6 +2751,7 @@
 			<Item Name="reciever_USRP294xR;295xR2_pulsedetectormai_nRNCtQH+qRA.lvbitx" Type="Document" URL="../FPGA Bitfiles/reciever_USRP294xR;295xR2_pulsedetectormai_nRNCtQH+qRA.lvbitx"/>
 			<Item Name="reciver params.ctl" Type="VI" URL="../FPGA/reciver params.ctl"/>
 			<Item Name="set rx params.vi" Type="VI" URL="../streaming_chaim_adds/set rx params.vi"/>
+			<Item Name="specrogram.vi" Type="VI" URL="../streaming_chaim_adds/specrogram.vi"/>
 			<Item Name="spot_gen_ver2.vi" Type="VI" URL="../streaming_chaim_adds/spot_gen_ver2.vi"/>
 			<Item Name="u64 simple counter.vi" Type="VI" URL="../streaming_chaim_adds/u64 simple counter.vi"/>
 			<Item Name="wola_4.vi" Type="VI" URL="../streaming_chaim_adds/wola_4.vi"/>
